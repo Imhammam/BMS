@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BMS1.props" />
+</Project>
